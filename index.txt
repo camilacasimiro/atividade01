@@ -1,1 +1,1 @@
-Objetivos da Disciplina de Gerência de Configurações e Mudanças: Mostrar a importância do controle do ciclo de vida de produto e artefatos; Apresentar nocoes sobre como gerenciar a configuracaoo de artefato e produtos;
+Objetivos da Disciplina de Gerência de Configurações e Mudanças: Mostrar a importância do controle do ciclo de vida de produtos e artefatos; Apresentar noções sobre como gerenciar a configuração de artefatos e produtos;
